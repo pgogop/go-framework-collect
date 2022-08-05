@@ -2,12 +2,17 @@
 golang 框架收集
 
 ## 日志
+ * [zap](go.uber.org/zap)
 
 ## 数据库
+ * [Gorm](https://github.com/go-gorm/gorm)
 
 ## NoSql
+ * [Redis](https://github.com/gomodule/redigo)
+ * [MongoDB](https://go.mongodb.org/mongo-driver/)
 
 ## 搜素引擎
+ * [ES](https://github.com/olivere/elastic)
 
 ## 消息队列
 
